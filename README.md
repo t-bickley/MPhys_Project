@@ -6,7 +6,7 @@ As linked in the appendix of the report.
 Notes: 
 
 -HPC directory contains all the code that was used to run parallel tasks with SLURM and is where the bulk of the data was computed.
-Data was saved and analysed in the notebooks
+Data was saved and later analysed in the notebooks
 
 -Modules contains functions that were used throughout the project.
 
